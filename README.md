@@ -36,7 +36,7 @@ DIAGRAMA DE FLUJO/
 
 Carpeta que contiene el diagrama de flujo del juego, útil para explicar la lógica o los pasos del programa.
 
-PIEDRA PAPEL O TIJERA 1.py
+PROYECTO FINAL.py
 Archivo principal del proyecto. Es el código en Python del juego, el que ejecutaremos desde Spyder.
 
 README.md
