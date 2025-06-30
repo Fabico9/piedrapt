@@ -36,11 +36,11 @@ DIAGRAMA DE FLUJO/
 
 Carpeta que contiene el diagrama de flujo del juego, útil para explicar la lógica o los pasos del programa.
 
-PROYECTO FINAL.py
+ROBINSON GOMEZ - PROYECTO PROGRAMACION.py
 Archivo principal del proyecto. Es el código en Python del juego, el que ejecutaremos desde Spyder.
 
 README.md
-Archivo de documentación. Contiene el nombre del proyecto (piedrapt) y una descripción:
+Archivo de documentación, contiene el nombre del proyecto y una descripción:
 
 
 Version de Python: 3.11.12
